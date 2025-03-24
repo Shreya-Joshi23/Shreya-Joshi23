@@ -4,8 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-joshi23&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-joshi23" /> </p>
 
-- 🌱 I’m currently practicing **frontend Development**
-- 🌱Practicing Data Structures and Algorithms
+- 🌱 I’m currently learning **DevOps**
+- 🌱Consistently practicing Data Structures and Algorithms
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
